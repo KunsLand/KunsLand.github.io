@@ -1,0 +1,37 @@
+body {
+	font-family: Microsoft YaHei;
+	color: #444444;
+}
+
+#main {
+	width:960px;
+	margin:40px auto;
+}
+
+#resume-body {
+	margin-right: 10px;
+	width:600px;
+	float:left;
+}
+
+#sidebar {
+	width: 300px;
+	float: right;
+	border-left: 2px solid #ccc;
+}
+
+#profile, .history {
+	margin-bottom:40px;
+	line-height: 1.6;
+}
+
+h2, p {
+	border-bottom: 2px solid #eee;
+}
+
+#logo {
+	float: right;
+	width:250px;
+	height:250px;
+}
+
